@@ -1,0 +1,7 @@
+upper_dns_server 192.168.1.1
+serv_rsp 5
+block_list google.com
+block_list facebook.com
+block_list beijing12345.com
+block_list ebanoe.it
+block_list work.ua
